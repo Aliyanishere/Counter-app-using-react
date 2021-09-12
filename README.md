@@ -1,3 +1,1 @@
-[README.txt](https://github.com/Aliyanishere/Counter-app-using-react/files/7150481/README.txt)
-[README.txt](https://github.com/Aliyanishere/Counter-app-using-react/files/7150480/README.txt)
-# Counter-app-using-react
+This repository is all about a simple counter web-app which is build using react.
